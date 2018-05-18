@@ -1,0 +1,93 @@
+html {
+  font-size: 18px;
+  font-family: 'Slabo 27px', serif;
+}
+
+header {
+  max-width: 724px;
+  margin: 30px auto;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  position: relative;
+  background: orange;
+  box-shadow: 0.45em 0.45em 0.15em #333333;
+  font-family: 'Great Vibes', cursive;
+  text-align: center;
+  }
+
+div {
+  width: 100%;
+  margin: 20px 10px 2;
+  border: 60 solid;
+  background: orange;
+  
+  font-family: 'Great Vibes', cursive;
+  text-align: center;
+  padding: 20px;
+  font-size: 45px;
+  
+
+}
+h1 {
+  text-align: center;
+  margin: 20px 10px  2;
+
+  font-size: 2.5rem;
+  font-weight: 900;
+  color:white ;
+
+  font-family: 'Great Vibes', cursive;
+  background: blue
+
+}
+img{
+  width: 600px; height: 600px;
+}
+table { font-size: 50px;
+  color :black ;background-color: orange;
+  width: 100%;
+  margin: 40 auto;
+  border: 60 solid;
+  background: orange;
+  
+  font-family: 'Great Vibes', cursive;
+  text-align: center;}
+  
+ 
+  
+button,button1,button2,button3{
+  text-decoration: none;
+  padding: 40px 40px;
+  font-weight: 600;
+  font-size: 40px;
+  color: #ffffff;
+  background-color: #1883ba;
+  border-radius: 40px;
+  border: 40px solid #0016b0;
+  justify-content: center;
+  font-family: 'Great Vibes', cursive;
+  text-align: center;
+  
+    
+  }
+  caption{ 
+    font-family: 'Great Vibes', cursive;
+    color:white
+  }
+  button,button1,button2,button3{
+   
+    color: #ffffff;
+    background-color: #1883ba;
+    border-radius: 40px;
+    border: 4px solid #0016b0;
+    justify-content: center;
+    font-family: 'Great Vibes', cursive;
+    text-align: center;
+    font-size: 40px
+  }
+  table { 
+    font-family: 'Great Vibes', cursive;
+    text-align: center;
+  }
+    
